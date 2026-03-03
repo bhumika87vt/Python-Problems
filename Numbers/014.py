@@ -1,4 +1,4 @@
-#16. Finding a prime factor of a given integer
+#Finding a prime factor of a given integer
 
 fac=12
 for i in range(2,13):
